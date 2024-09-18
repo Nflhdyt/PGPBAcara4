@@ -24,11 +24,13 @@ kuda.jpg untuk laman Homepage
 Register:
 
 ![Screenshot 2024-09-18 095624](https://github.com/user-attachments/assets/1bb2279d-e8e3-4cd3-bfc8-f7cdefb1b73c)
+
 Login:
 
 ![Screenshot 2024-09-18 095713](https://github.com/user-attachments/assets/703ed6d1-f431-4426-b175-b7c9f04ffa00)
 
 Homepage:
+
 ![Screenshot 2024-09-18 095823](https://github.com/user-attachments/assets/de09195e-3ec0-4cb9-875f-db2f46798533)
 
 ========================================================
